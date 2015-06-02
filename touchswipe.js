@@ -106,7 +106,7 @@ var _isAndroid = (/android/gi).test(navigator.appVersion),
 		}
 	};
 
-	$.fn.MelonSwipe = function(handler,option) {
+	$.fn.Swipe = function(handler,option) {
 
 		$(this).each(function(){
 
